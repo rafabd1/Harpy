@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-    <b>High-performance web reconnaissance tool for extracting endpoints, parameters, and hidden assets from Web files.</b>
+    <b>Web reconnaissance tool for extracting endpoints, parameters, and hidden assets from Web files.</b>
 </p>
 
 ## ✨ Features
